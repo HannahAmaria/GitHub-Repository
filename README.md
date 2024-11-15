@@ -1,4 +1,4 @@
-![Hannah's GitHub Banner](./assets/GitHubHeader.png)
+![Hannah's GitHub Banner](./GitHubHeader.png)
 
 [![Behance Badge](https://img.shields.io/badge/Behance-Profile-informational?style=flat&logo=behance&logoColor=white&color=0D76A8)](https://www.behance.net/hannahnaidoo1)
 
