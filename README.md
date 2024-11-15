@@ -84,11 +84,8 @@ Want to know more about me? [Check out my portfolio on GitHub](https://github.co
 Student: 21100366@virtualwindow.co.za
 
 Personal: hannahamarian@gmail.com
-
 <br>
 
 ## Reference
 
-ReadMe template by [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)
-
-<br>
+Template by [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)
