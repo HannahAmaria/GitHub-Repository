@@ -79,15 +79,11 @@ Want to know more about me? [Check out my portfolio on GitHub](https://github.co
 
 ## Contact Details
 
-<br>
-
 Student: 21100366@virtualwindow.co.za
 
 Personal: hannahamarian@gmail.com
 <br>
 
 ## Reference
-
-<br>
 
 Template by [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)
